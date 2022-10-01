@@ -25,7 +25,7 @@
   <div align="center">
   🛹 Hobby : Coding
   <div align="center">
-  👨🏻‍💻Now working at @ ShinaMC  
+  👨🏻‍💻Nothing to do. 
 <br />
 
  Currently , I'm living in **[Hanoi, Vietnam.](https://en.wikipedia.org/wiki/Hanoi)**
