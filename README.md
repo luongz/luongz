@@ -44,4 +44,4 @@ You can email'ed me <a href="mailto:trandinhluong2411@gmail.com"><b>here !</b></
 <h2>My Spec</h2>
 💻 : MSI Modern 14 B11MOU
 <div align="center">
-📱 : VSmart Joy 3
+📱 : Sony Xperia XZ2
