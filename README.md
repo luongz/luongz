@@ -42,6 +42,6 @@ You can email'ed me <a href="mailto:trandinhluong2411@gmail.com"><b>here !</b></
 <br />
 <div align="center">
 <h2>My Spec</h2>
-💻 : MSI Modern 14 B11MOU
+💻 : MSI Modern 14
 <div align="center">
 📱 : Sony Xperia XZ2
