@@ -1,12 +1,6 @@
 
 <div align="center">
 <h2>You got me !</h2>
-<a href="https://facebook.com/luongluvlamy" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%2300acee.svg?color=405DE6&style=for-the-badge&logo=facebook&logoColor=whitee alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/ayefuwa" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
 <a href="https://lookup.guru/673447795843399690" target="_blank">
 <img src=https://img.shields.io/badge/discord-%2300acee.svg?color=405DE6&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
 </a>
@@ -15,7 +9,7 @@
 <div align="center">
 👦 My name is Luong.
 <div align="center">
-🙈 Nickname : ayefuwa, Hiyori, Aki, ikagnise.
+🙈 Nickname : Hiyori.
 <div align="center">
 🎂 15 yrs old.
 <div align="center">
